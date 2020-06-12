@@ -6,13 +6,7 @@ import readScreen from './screens/readScreen';
 import  writeScreen from './screens/writeScreen';
 
 export default class App extends React.Component {
-  constructor() {
-    super();
-    this.state = {
-      text: '',
-    
-    };
-  }
+  
  
   render(){
  
